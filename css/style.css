@@ -1,0 +1,389 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+       /*-------- main container style start --------*/
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding:0 15px;
+}
+      /*-------- main container style end --------*/
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+             /*-------- col style  start --------*/
+			 
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.33%;
+	padding:0 15px;
+}
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+             
+			 /*-------- col style  end --------*/
+
+             /*----- header menu style start ----------*/
+
+.header-menu{
+	background-color:#fff;
+	padding:20px 0;
+}
+.logo{
+	background-color:#111111;
+	height:50px;
+}
+.navbar{
+	background-color:#e03a3c;
+	height:50px;
+}
+
+        /*----- header menu style end ----------*/ 
+
+        /*----- banner style start ----------*/ 
+		
+.main-banner{
+	background-color:#95A5A6;
+	height:500px;
+	padding:125px 0;
+}
+.banner-content{
+    background-color:#e03a3c;
+    height:250px;
+    width:60%;
+}
+
+        /*----- banner style end ----------*/
+		
+		      /*---- partners style start --------*/
+			  
+.partners{
+	padding:30px 0;
+}
+.partners-logo{
+	background-color:#444444;
+	height:100px;
+}
+			  
+			  /*----- partners style end ----------*/
+			  
+			   /*----- about style start ----------*/
+
+.about-section{
+	padding:80px 0;
+	background-color:#000;
+}
+.about-content{
+	background-color:#e03a3c;
+	height:400px;
+}
+.list-box{
+	background-color:#e03a3c;
+	height:170px;
+	margin-bottom:30px;
+}
+			   
+			   /*----- about style end ----------*/
+			   
+			         /*----- achievements style start ----------*/
+			   
+.achievements{
+    padding:40px 0;
+}
+.events{
+	background-color:#000;
+	height:100px;
+}
+
+                      /*----- achievements style end ----------*/
+					  
+					  /*------ content-section style start ---------*/
+					  
+.content-section{
+    background-color:#fff;
+	padding:40px 0;
+}
+.content-box{
+	background-color:#e03a3c;
+	height:100px;
+}				  
+
+.main-content{
+	background-color:#761c1c;
+	height:300px;
+    margin:40px 0;
+}
+					  
+					   /*------ content-section style end ---------*/
+					   
+					        /*-- services style start --*/
+							
+.services{
+	padding:40px 0;
+	background-color:#000;
+
+}
+.main-services{
+	background-color:#fff;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.services-content{
+	background-color:#fff;
+	height:50px;
+	margin:30px 0;
+}
+/*--services list box--*/
+.services-list-box{
+	background-color:#e03a3c;
+	height:150px;
+	margin-bottom:30px;	
+}							
+							
+						/*-- services style end --*/
+						
+					/*----------- portfolio style start ---------*/
+					
+.portfolio{
+    background-color:#fff;
+	padding:30px 0;
+}
+.main-portfolio{
+	background-color:#000;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.portfolio-content{
+	background-color:#000;
+	height:50px;
+	margin:30px 0;
+}
+/*--portfolio-icons--*/
+/*.portfolio-icons{
+	background-color:yellow;
+	height:40px;
+	width:20%;
+}*/
+/*--portfolio-list-box--*/
+.portfolio-list-box{
+	height:200px;
+	background-color:#D7DBDD;
+	margin:30px 0;
+}
+							
+				   /*----------- portfolio style end ---------*/
+				   
+                  /*------ testimonials style start ------*/
+		
+.testimonials{
+	padding:30px 0;
+	
+}
+.main-testimonials{
+	background-color:#000;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.testimonials-content{
+	background-color:#000;
+	height:50px;
+	margin:30px 0;
+}
+/*--testimonials-list-box--*/
+.testimonials-list-box{
+	height:290px;
+	background-color:#D7DBDD;
+}
+		
+				 /*------ testimonials style end ------*/
+				 
+			  /*--------------- pricing style start -----------*/
+			  
+.pricing{
+	padding:30px 0;
+	background-color:#000;
+	
+}
+.main-pricing{
+	background-color:#fff;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.pricing-content{
+	background-color:#fff;
+	height:50px;
+	margin:30px 0;
+}
+/*--pricing-list-box--*/
+.pricing-list-box{
+	height:430px;
+	background-color:#e03a3c;
+}		  
+			  		  	   
+			  /*--------------- pricing style end -----------*/
+			  
+			      /*----------- questions style start --------*/
+				  
+.questions{
+	padding:30px 0;
+}
+.main-questions{
+	height:70px;
+	background-color:#000;
+	width:40%;
+	margin-left:336px;
+}
+.questions-content{
+	height:500px;
+	background-color:#000;
+	margin:30px 0;
+}
+
+				  /*----------- questions style end --------*/
+				  
+			  /*---------------- team style start ------------*/
+
+.team{
+	background-color:#000;
+	padding:30px 0;
+}
+.main-team{
+	background-color:#fff;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.team-content{
+	background-color:#fff;
+	height:50px;
+	margin:30px 0;
+}
+/*--team list box--*/
+.team-list-box{
+	background-color:#D7DBDD;
+	height:300px;
+}
+			  		  
+			  /*---------------- team style end ------------*/
+			  
+			        /*---------- contact style start -------*/
+					
+.contact{
+	background-color:#fff;
+	padding:30px 0;
+}
+.main-contact{
+	background-color:#000;
+	height:70px;
+	width:20%;
+	margin-left:450px;
+}
+.contact-content{
+	background-color:#000;
+	height:50px;
+	margin:30px 0;
+}
+
+/*--contact list box--*/
+
+.list-box1{
+	height:150px;
+	background-color:#e03a3c;
+}
+.list-box2{
+	height:200px;
+	background-color:#e03a3c;
+	margin:30px 0;	
+}
+.second-box{
+	height:360px;
+	background-color:#e03a3c;
+}
+		
+			/*---------- contact style end -------*/
+			
+			/*---------- footer style start -------*/
+	
+.footer{
+	background-color:#212121;
+	padding:30px 0;
+}
+.footer-content{
+	background-color:#fff;
+	height:300px;
+}
+			
+			/*---------- footer style end -------*/
+			
+			        /*---------- copyright section style start -------*/
+			
+.copyright{
+	background-color:#000;
+	padding:30px 0;
+}
+.box-1{
+	background-color:#e03a3c;
+	height:100px;
+	width:40%
+}
+.box-2{
+	background-color:#e03a3c;
+	height:100px;	
+}
+
+                      /*---------- copyright section style end -------*/
+			
+			
+			
+
+			
