@@ -67,10 +67,8 @@
 				</div>
 			</div>
 	   </header>
-             <!----- header menu end ---------->
-			 
-			 
-			 
+	   
+             <!----- header menu end -------------->			 
 			 
 			 
 			 <!----- banner start ---------->
@@ -78,13 +76,16 @@
     <section class="main-banner">
         <div class="container">
 	        <div class="banner-content">
+                 <h1> Bettter digital<br> experience with <br>Presento </h1>
+				 <h3>We are team of talented designers making<br> websites with Bootstrap </h3>
+				 <a href="#about" class="btn2"> Get Started </a>
 	  
-	        <div>
-        </div>
+	        </div>
+			</div>
     </section>
     
 	         <!----- banner end ---------->
-
+			 
                      <!----- partners start ---------->
 
     <section class="partners">
@@ -92,32 +93,32 @@
 	   <div class="row">
 	     <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+                 <img src="images/c1.png">
 			</div>
 		 </div>
 		 <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+			     <img src="images/c2.png">
 			</div>
 		 </div>
 		 <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+                 <img src="images/c3.png">
 			</div>
 		 </div>
 		 <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+			     <img src="images/c4.png">
 			</div>
 		 </div>
 		 <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+                 <img src="images/c5.png">
 			</div>
 		 </div>
 		 <div class="col-lg-2">
 		    <div class="partners-logo">
-			
+			     <img src="images/c6.png">
 			</div>
 		 </div>
 	   
@@ -127,6 +128,13 @@
 	
 	   <!----- partners end ---------->
 	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
 	              <!----- about start ---------->
 				  
     <section class="about-section">
@@ -134,37 +142,48 @@
 	  <div class="row">
 	      <div class="col-lg-5">
 		     <div class="about-content">
+			    <h1> Voluptatem dignissimos provident quasi </h1>
+				<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit <p>
+				<a href="index.html"> ABOUT US <i class="icofont-curved-right"></i></a>
 			 
 			 </div>
 		  </div>
 		  
 		  <div class="col-lg-7">
 		     <div class="row">
-			 
+         
                  <div class="col-lg-6">
 				   <div class="list-box">
-				   
+				      <i class="icofont-license"></i>
+					  <h4>Corporis voluptates sit</h4>
+                      <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
 				   </div>
 		         </div>
 				 
 				 
 				 <div class="col-lg-6">
 				   <div class="list-box">
-				   
+				         <i class="icofont-cube"></i>
+						 <h4>Ullamco laboris nisi</h4>
+                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
 				   </div>
 				 </div>
 				 
 				 
 				 <div class="col-lg-6">
 				   <div class="list-box">
-				   
+				        <i class="icofont-picture"></i>
+						<h4>Labore consequatur</h4>
+                        <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
 				   </div>
 				 </div>
 				 
 				 
 				 <div class="col-lg-6">
 				   <div class="list-box">
-				   
+                       <i class="icofont-shield"></i>
+					   <h4>Beatae veritatis</h4>
+                       <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
 				   	 </div>
 				 </div>
 			  </div>
@@ -175,6 +194,14 @@
 	</section>
 	
                  <!----- about end ---------->
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
 
          <!------------- achievements start ------------------>
 	   

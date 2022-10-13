@@ -128,8 +128,7 @@
 
 .header-menu{
 	background-color:#fff;
-	padding:20px 0;
-	padding:20px 0;
+	padding:18px 0;
 }
 .logo a{
 	text-decoration:none;
@@ -144,6 +143,7 @@
 
 .navbar .navbar-list li{
 	display:inline-block;
+	
 }
 .navbar .navbar-list{
 	text-align:right;
@@ -199,6 +199,9 @@
 .dropdown-in{
 	position:relative;
 }
+.dropdown-in i{
+	padding-left:60px;
+}
 .sub-dropdown{
 	position:absolute;
 	top:0;
@@ -212,6 +215,7 @@
 	opacity:0;
 	visibility:hidden;
 	transition:all 0.3s ease;
+	margin-left:80px;
 }
 .dropdown  a.nav-list{
 	padding-right:25px;
@@ -220,62 +224,15 @@
 .dropdown a  i{
 	position:absolute;
 	top:14px;
-	left:100px;
+	left:100px;	
 }
 .dropdown-in:hover .sub-dropdown{
 	transform:translateX(0);
 	opacity:1;
 	visibility:visible;
-	
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         /*----- header menu style end ----------*/ 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		
@@ -284,47 +241,164 @@
         /*----- banner style start ----------*/ 
 		
 .main-banner{
-	background-color:#95A5A6;
-	height:500px;
-	padding:125px 0;
+	background-image:linear-gradient(rgba(0, 0 , 0, .7), rgba(0, 0, 0, 0.5)),url("../images/ban.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	min-height:500px;
+	
+	
 }
 .banner-content{
-    background-color:#e03a3c;
-    height:250px;
-    width:60%;
+	color:#fff;
+	padding-top:100px;
+	padding-bottom:200px;
+}
+.banner-content  h1{
+	font-size:48px;
+}
+.banner-content h3{
+	font-size:25px;
+	padding-top:20px;
+	font-style:italic;
+
+}
+.btn2{
+	text-decoration:none;
+	display:inline-block;
+	text-align:center;
+	padding:13px 35px;
+	background-color:#e03a3c;
+	border-radius:4px;
+	color:#fff;
+	font-size:16px;
+	margin-top:30px;
+	transition: 0.3s;
+}
+.banner-content .btn2:hover{
+	border:2px solid #fff;
+	background-color:transparent;
+	
 }
 
         /*----- banner style end ----------*/
 		
+		
 		      /*---- partners style start --------*/
 			  
 .partners{
-	padding:30px 0;
+	padding:90px 0;
+	
 }
 .partners-logo{
-	background-color:#444444;
-	height:100px;
+	padding:5px 30px;
 }
-			  
+.partners-logo img{
+	width:100%;
+	filter:grayscale(100%);
+	opacity:0.5;
+	transition:all 0.3 ease;
+}	
+.partners-logo img:hover{
+	opacity:1;
+	filter:grayscale(0%);
+}		  
 			  /*----- partners style end ----------*/
+			  
+			  
+			  
+			  
+			  
+			  
+			  
 			  
 			   /*----- about style start ----------*/
 
 .about-section{
-	padding:80px 0;
+	position:relative;
+	z-index:1;
+	padding:60px 0;
+	
+}
+
+.about-section:after{
+	content: "";
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	z-index:-1;
+	transform:skew(0deg, -2.5deg);
 	background-color:#000;
+	
 }
 .about-content{
-	background-color:#e03a3c;
-	height:400px;
+	color:#fff;	
+	padding-top:40px;
 }
-.list-box{
+.about-content h1{
+	font-size:35px;
+	font-weight:700;
+	padding-bottom:40px;
+}
+.about-content p{
+	font-size:16px;
+	font-weight:500;
+	padding-bottom:40px;
+}
+.about-content a{
+	text-decoration:none;
+	font-weight:500;
+	font-size:13px;
+	color:#fff;
+	border:2px solid #e03a3c;
+	padding:8px 33px;
+	border-radius:20px;
+	display:inline-block;
+}
+.about-content a:hover{
 	background-color:#e03a3c;
-	height:170px;
+}
+.about-content a i{
+	font-size:13px;
+	font-weight:500;
+	padding-left:15px;
+}
+
+/*----list box---*/
+.about-section .list-box{
 	margin-bottom:30px;
+	
 }
+.about-section .list-box i{
+	font-size:40px;
+	color:#e03a3c;
+}
+.about-section .list-box h4{
+	color:#fff;
+	font-size:20px;
+	font-weight:700;
+	margin-top:10px;
+}
+.about-section .list-box p{
+	color:#848484;
+	font-size:14px;
+	margin-top:10px;
+	padding-bottom:30px;
+}
+
 			   
 			   /*----- about style end ----------*/
+			   
+			   
+			   
+			   
+			   
+			   
+			   
+			   
+			   
+			   
 			   
 			         /*----- achievements style start ----------*/
 			   
