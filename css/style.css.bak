@@ -110,19 +110,6 @@
 			 
 			 
 			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
 
              /*----- header menu style start ----------*/
 
@@ -179,7 +166,7 @@
 	min-width:190px;
 	background-color:#fff;
 	box-shadow:2px 2px 18px -5px #ccc;
-	border-radius:10px;
+	border-radius:2px;
 	text-align:left;
 	transform:translateY(20px);
 	opacity:0;
@@ -209,7 +196,7 @@
 	min-width:190px;
 	background-color:#fff;
 	box-shadow:2px 2px 18px -5px #ccc;
-	border-radius:10px;
+	border-radius:2px;
 	text-align:left;
 	transform:translateX(-15px);
 	opacity:0;
@@ -244,22 +231,23 @@
 	background-image:linear-gradient(rgba(0, 0 , 0, .7), rgba(0, 0, 0, 0.5)),url("../images/ban.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
-	min-height:500px;
+	height:700px;
 	
 	
 }
 .banner-content{
 	color:#fff;
-	padding-top:100px;
-	padding-bottom:200px;
+	padding-top:150px;
+	padding-left:50px;
 }
 .banner-content  h1{
 	font-size:48px;
 }
 .banner-content h3{
-	font-size:25px;
-	padding-top:20px;
+	font-size:24px;
+	padding-top:35px;
 	font-style:italic;
+	font-family:"Raleway", sans-serif;
 
 }
 .btn2{
@@ -271,7 +259,7 @@
 	border-radius:4px;
 	color:#fff;
 	font-size:16px;
-	margin-top:30px;
+	margin-top:40px;
 	transition: 0.3s;
 }
 .banner-content .btn2:hover{
@@ -334,12 +322,11 @@
 }
 .about-content{
 	color:#fff;	
-	padding-top:40px;
+	padding-top:30px;
 }
 .about-content h1{
 	font-size:35px;
 	font-weight:700;
-	padding-bottom:40px;
 }
 .about-content p{
 	font-size:16px;
@@ -366,24 +353,23 @@
 }
 
 /*----list box---*/
-.about-section .list-box{
-	margin-bottom:30px;
+.about-section .about-list-box{
 	
 }
-.about-section .list-box i{
+.about-section .about-list-box i{
 	font-size:40px;
 	color:#e03a3c;
 }
-.about-section .list-box h4{
+.about-section .about-list-box h4{
 	color:#fff;
 	font-size:20px;
 	font-weight:700;
 	margin-top:10px;
 }
-.about-section .list-box p{
+.about-section .about-list-box p{
 	color:#848484;
-	font-size:15px;
-	margin-top:10px;
+	font-size:14px;
+	margin-top:8px;
 	padding-bottom:30px;
 }
 
@@ -393,41 +379,120 @@
 			   
 			   
 			   
-			   
-			   
-			   
-			   
-			   
-			   
+			
 			   
 			         /*----- achievements style start ----------*/
 			   
 .achievements{
-    padding:40px 0;
+    padding-top:120px;
+	padding-bottom:80px;
+	
 }
 .events{
-	background-color:#000;
-	height:100px;
+	text-align:center;
+	padding:44px 54px;
+	position:relative;
+	box-shadow: 0 4px 30px  rgb(0 0 0 /8%)
+	 	
+}
+.events i{
+	position:absolute;
+	left:96px;
+	top:0;
+	transform:translateY(-50%);
+	font-size:30px;
+	border:2px solid #fff;
+	background-color:#fff;
+	border-radius:50%;
+	color:#e03a3c;
+	padding:14px;
+	box-shadow: 0 4px 30px  rgb(0 0 0 /8%)
+}
+.events h1{
+	font-size:36px;
+}
+.events p{
+	font-size:14px;
+	color:#444444;
 }
 
                       /*----- achievements style end ----------*/
 					  
+					  
+					  
+					  
+					  
+					  
+					  
+					  
 					  /*------ content-section style start ---------*/
 					  
 .content-section{
-    background-color:#fff;
-	padding:40px 0;
+	padding:20px 0;
 }
-.content-box{
+.content-box-1{
+	background-color:#fff;
+	display:flex;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-left:25px;
+	padding-right:25px;
+	border:1px solid #ccc;
+}
+.content-box-1:hover{
+	color:#e03a3c;
+}
+.content-box-active:hover{
+	color:#fff;
+}
+.content-box-active{
 	background-color:#e03a3c;
-	height:100px;
-}				  
+	border-color:#e03a3c;
+	color:#fff;
+}
+.content-box-1 i{
+	font-size:46px;
+}
+.content-box-1 h4{
+	font-size:16px;
+	font-weight:700;
+	padding-left:20px;	
+}
+
+
+
+				  
 
 .main-content{
-	background-color:#761c1c;
-	height:300px;
     margin:40px 0;
+	line-height:1.5;
+	color:#6c757d;
 }
+.main-content h1{
+	font-size:25px;
+	color:#000;
+}
+.main-content p{
+    padding-top:14px;
+	font-size:16px;
+}
+.main-content .para{
+	font-style:italic;
+}
+.main-content ul li{
+	list-style:none;
+	padding-top:15px;
+}
+.main-content i{
+	font-size:24px;
+	padding-right:6px;
+	color:#e03a3c;
+	font-weight:700;
+}
+
+/*-- main-content-1 ---*/
+
+
 					  
 					   /*------ content-section style end ---------*/
 					   

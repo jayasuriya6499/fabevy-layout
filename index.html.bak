@@ -76,8 +76,8 @@
     <section class="main-banner">
         <div class="container">
 	        <div class="banner-content">
-                 <h1> Bettter digital<br> experience with <br>Presento </h1>
-				 <h3>We are team of talented designers making<br> websites with Bootstrap </h3>
+                 <h1> Bettter digital experience <br> with Presento </h1>
+				 <h3>We are team of talented designers making <br> websites with Bootstrap </h3>
 				 <a href="#about" class="btn2"> Get Started </a>
 	  
 	        </div>
@@ -156,7 +156,7 @@
 				   <div class="list-box">
 				      <i class="icofont-license"></i>
 					  <h4>Corporis voluptates sit</h4>
-                      <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                      <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut a liquip</p>
 				   </div>
 		         </div>
 				 
@@ -210,25 +210,33 @@
 		      <div class="row">
 			      <div class="col-lg-3">
 				     <div class="events">
-					 
+					     <i class="icofont-simple-smile"></i>
+					     <h1> 232 </h1> 
+						 <p> Happy Clients</p>
 					 </div>
 				  </div>
 				  
 				  <div class="col-lg-3">
 				     <div class="events">
-					 
+					     <i class="icofont-notebook"></i>
+						 <h1> 521 </h1> 
+						 <p> Projects </p>
+					  </div>
+				  </div>
+				  
+				  <div class="col-lg-3">
+				     <div class="events">
+					     <i class="icofont-headphone-alt"></i>
+						 <h1> 1463 </h1> 
+						 <p> Hours Of Support</p>
 					 </div>
 				  </div>
 				  
 				  <div class="col-lg-3">
 				     <div class="events">
-					 
-					 </div>
-				  </div>
-				  
-				  <div class="col-lg-3">
-				     <div class="events">
-					 
+					     <i class="icofont-ui-user"></i>
+						 <h1> 15 </h1> 
+						 <p> Hard Workers</p>
 					 </div>
 				  </div>
 				  				  
@@ -237,6 +245,14 @@
 	   </section>
 
                     <!------------- achievements end ------------------>
+					
+					
+					
+					
+					
+					
+					
+					
 
                <!------ content-section start --------->
 			   
@@ -244,26 +260,34 @@
 	      <div class="container">
 		      <div class="row">
 			     <div class="col-lg-3">
-				     <div class="content-box">
+				     <div class="content-box-1 content-box-active">
+					     <i class="icofont-ui-network"></i>
+					    <h4>Modi sit est dela pireda nest</h4>
+
 					 
 					 </div>
 				 </div>
 				 
 				 <div class="col-lg-3">
-				     <div class="content-box">
+				     <div class="content-box-1">
+					    <i class="icofont-dashboard-web"></i>
+					    <h4>Unde praesenti mara setra le</h4>
 					 
 					 </div>
 				 </div>
 				 
 				 <div class="col-lg-3">
-				     <div class="content-box">
+				     <div class="content-box-1">
+					     <i class="icofont-sun"></i>
+					     <h4>Pariatur explica nitro dela</h4>
 					 
 					 </div>
 				 </div>
 				 
 				 <div class="col-lg-3">
-				     <div class="content-box">
-					 
+				     <div class="content-box-1">
+					     <i class="icofont-archive"></i>
+					     <h4>Nostrum qui dile node</h4>
 					 </div>
 				 </div>
 			  </div>
@@ -271,13 +295,20 @@
 			  <div class="row">
 			     <div class="col-lg-6">
 				     <div class="main-content">
-					 
+					     <h1> Voluptatem dignissimos provident quasi corporis voluptates sit assumenda. </h1>
+						 <p class="para"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+						  <ul>
+						     <li> <i class="icofont-check-alt"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. </li>
+							 <li> <i class="icofont-check-alt"></i>Duis aute irure dolor in reprehenderit in voluptate velit. </li>
+							 <li><i class="icofont-check-alt"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+							 <p> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+						  </ul>
 					 </div>
 				 </div>
 				 
 				  <div class="col-lg-6">
-				     <div class="main-content">
-					 
+				     <div class="main-content1">
+					    <img src="images/side.jpg" width="100%" height="auto">
 					 </div>
 				 </div>
 			  </div>
