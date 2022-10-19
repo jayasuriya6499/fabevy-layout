@@ -250,10 +250,6 @@
 					
 					
 					
-					
-					
-					
-
                <!------ content-section start --------->
 			   
 	<section class="content-section">
@@ -316,9 +312,6 @@
 	</section>
 	
 	             <!------ content-section end --------->
-				 
-				 
-				 
 				 
 				 
 				 
@@ -394,10 +387,7 @@
 				   
 				   
 				   
-				   
-				   
-				   
-			
+				 
 			<!--------------- portfolio start ------------->
 			
     <section class="portfolio">
@@ -571,10 +561,6 @@
 	   
 	   
 	   
-	   
-	   
-	   
-	   
 	               <!------ testimonials start ----->
 				   
 			 
@@ -589,58 +575,51 @@
 			  </div>
 			      
 				    <!--- testimonials-list-box -->
+				 
+			<div class="col-lg-4">
+			   <div class="testimonials-items">
+			      <div class="testimonials-img">
+				      <img src="images/testimonials/tst-1.jpg" alt="testimonials">
+					  <h4> John Larson</h4>
+					  <h5>Entrepreneur</h5>
+					  <div class="clearfix"></div>
+				  </div>
+				  
+				  <p> <i class="icofont-quote-left"></i> Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper. <i class="icofont-quote-right"></i> </p>
+			   </div>
+			</div>
+			
+			<div class="col-lg-4">
+			   <div class="testimonials-items">
+			      <div class="testimonials-img">
+				      <img src="images/testimonials/tst-2.jpg" alt="testimonials">
+					  <h4> Jena Karlis</h4>
+					  <h5>Store Owner</h5>
+					  <div class="clearfix"></div>
+				  </div>
+				  
+				  <p> <i class="icofont-quote-left"></i> Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper. <i class="icofont-quote-right"></i> </p>
+			   </div>
+			</div>
+			
+			<div class="col-lg-4">
+			   <div class="testimonials-items">
+			      <div class="testimonials-img">
+				      <img src="images/testimonials/tst-3.jpg" alt="testimonials">
+					  <h4> Matt Brandon</h4>
+					  <h5>Freelancer</h5>
+					  <div class="clearfix"></div>
+				  </div>
+				  
+				  <p> <i class="icofont-quote-left"></i> Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper. <i class="icofont-quote-right"></i> </p>
+			   </div>
+			</div>
 				    
-			  <div class="col-lg-4"> 
-				            <!--box1-->
-				  
-				     <div class="testimonials-list-box1">
-					       <div class="testimonials-image">
-						       <img src="images/testimonials/tst-1.jpg">
-							   <h4> Saran Wilsson </h4>
-							   <p> Designer </p>
-						   </div>
-						   <div class="testimonials-content">
-						        <i class="icofont-quote-left"></i>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-								<i class="icofont-quote-right"></i>
-						   </div>
-					 </div>
-			  </div>
 			  
-			  <div class="col-lg-4"> 
-				            <!--box2-->
-				  
-				     <div class="testimonials-list-box1">
-					       <div class="testimonials-image">
-						       <img src="images/testimonials/tst-2.jpg">
-							   <h4> Jena Karlis </h4>
-							   <p> Store Owner </p>
-						   </div>
-						   <div class="testimonials-content">
-						        <i class="icofont-quote-left"></i>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim duis tempor. 
-								<i class="icofont-quote-right"></i>
-						   </div>
-					 </div>
-			  </div>
-
-
-                    <div class="col-lg-4"> 
-				            <!--box3-->
-				  
-				     <div class="testimonials-list-box1">
-					       <div class="testimonials-image">
-						       <img src="images/testimonials/tst-3.jpg">
-							   <h4> Matt Brandon </h4>
-							   <p> Freelancer </p>
-						   </div>
-						   <div class="testimonials-content">
-						        <i class="icofont-quote-left"></i>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat esse veniam culpa fore nisi cillum quid.
-								<i class="icofont-quote-right"></i>
-						   </div>
-					 </div>
-			  </div>
+			  
 
 			  
-			   
+			  </div> 
 	       </div>
 		</div>
     </section>
@@ -742,9 +721,6 @@
 		   
 		   
 		   
-		   
-		   
-		   
 		   	       <!-------- questions start ------------>
 				   
 	<section class="questions">
@@ -760,7 +736,6 @@
 				    <div class="questions-line">
 				        <div class="qus-line1">
 					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
 					    </div>
 					</div>
 				 </div>
@@ -768,8 +743,7 @@
 				 <div class="col-lg-12">
 				    <div class="questions-line">
 				        <div class="qus-line1">
-					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
+					       <h5> Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="icofont-curved-down"></i></h5>
 					    </div>
 					</div>
 				 </div>
@@ -777,8 +751,7 @@
 				 <div class="col-lg-12">
 				    <div class="questions-line">
 				        <div class="qus-line1">
-					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
+					       <h5> Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="icofont-curved-down"></i></h5>
 					    </div>
 					</div>
 				 </div>
@@ -786,8 +759,7 @@
 				 <div class="col-lg-12">
 				    <div class="questions-line">
 				        <div class="qus-line1">
-					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
+					       <h5> Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="icofont-curved-down"></i></h5>
 					    </div>
 					</div>
 				 </div>
@@ -795,8 +767,7 @@
 				 <div class="col-lg-12">
 				    <div class="questions-line">
 				        <div class="qus-line1">
-					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
+					       <h5> Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="icofont-curved-down"></i></h5>
 					    </div>
 					</div>
 				 </div>
@@ -804,8 +775,7 @@
 				 <div class="col-lg-12">
 				    <div class="questions-line">
 				        <div class="qus-line1">
-					       <h5> Non consectetur a erat nam at lectus urna duis? <i class="icofont-curved-down"></i></h5>
-					       <p> Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. </p>
+					       <h5> Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="icofont-curved-down"></i></h5>
 					    </div>
 					</div>
 				 </div>
@@ -918,12 +888,6 @@
 								
 								
 								
-								
-								
-								
-								
-								
-								
 					<!---------- contact start -------------->
 	
 	<section class="contact">
@@ -975,35 +939,41 @@
 				</div>
 				
 				   <!---- list-box2 ---->
-				   
+		    
 			<div class="col-lg-6">
-			    <div class="send-box">
-				     <form class="form-control">
-					 
-					    <div class="name-line">
-						     <input type="text" name="name" id="name" placeholder="Your Name" required>
-						     <input type="email" name="email" id="email" placeholder="Your Email" required>
-						</div>
-						<div class="subject"> 
-						     <input type="text" name="subject" id="subject" placeholder="Subject" required>
-						</div>
-						<div class="message-line">
-						     <textarea type="text" name="message" id="message" placeholder="Message" required></textarea>
-						</div>
-						<div class="button">
-						    <a href="#">Send Message </a>
-						</div>
-					 
-					 </form>
+			    <div class="send-message-box">
+				   <div class="col-lg-12">
+				       <div class="row">
+				            
+								   <div class="col-lg-6">
+										  <input type="text" id="name" placeholder="Your Name" required>
+								   </div>
+								   
+								   <div class="col-lg-6">
+										  <input type="email" id="email" placeholder="Your Email" required>
+								   </div>
+								   
+								   <div class="col-lg-12">
+										  <input type="text" id="subject" placeholder="Subject" required>
+								   </div>
+								   
+								   <div class="col-lg-12">
+										  <textarea type="text" id="message" placeholder="Message" rows="7" cols="57" required></textarea>
+								   </div>
+								   
+								   <div class="col-lg-12">
+								      <div class="send-btn">
+								       <a href="#">Send Message </a>
+									  </div>
+								   </div>
+							
+								 
+				       </div>
+				   </div>
 				</div>
 			</div>
-				
-				
-				
-				
-				
-				
-				
+				   
+			
 			</div>
 		</div>
 	</section>
@@ -1012,81 +982,112 @@
 	            <!---------- contact end -------------->
 				
 				
-				
-				
-				
-				
-				    <!-------- footer section start --------------->
-					
-	<footer class="footer">
-	   <div class="container">
-	     <div class="row">
-		    <div class="col-lg-3">
-			   <div class="footer-content">
-			   
-			   </div>
-			</div>
+			<!------------- footer section start ---------------->
 			
-			 <div class="col-lg-3">
-			   <div class="footer-content">
-			   
-			   </div>
-			</div>
-			
-			 <div class="col-lg-3">
-			   <div class="footer-content">
-			   
-			   </div>
-			</div>
-			
-			 <div class="col-lg-3">
-			   <div class="footer-content">
-			   
-			   </div>
-			</div>
-			
-		 </div>
-	   </div>
-	</footer>
-	
-             <!-------- footer section end --------------->
-			 
-			      <!-----copyright section start --------->
+	<footer class="footer-section">
+	    <div class="container">
+		    <div class="row">
+			       <!--- main details -->
+			    <div class="col-lg-3">
+				     <div class="main-details">
+					     <h3>Presento<span>.</span></h3>
+						 <p> A108 Adam Street <br> New York,NY 535022 <br> United States. <br><br> </p>
+						 <strong>Phone:</strong> +1 5589 55488 55<br>
+						 <strong>Email:</strong>  info@example.com
+					 </div>
+				</div>
+				    <!--- useful links -->
+				<div class="col-lg-2">
+				     <div class="useful-links">
+					     <h4> Useful Links </h4>
+						 <div class="line"></div>
+						 <ul class="useful-links-list">
+						     <li><i class="icofont-curved-right"></i><a href="#">Home</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">About us</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Services</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Terms of service</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Privacy policy</li></a>
+						 </ul>
+					 </div>
+				</div>
+				    <!--- our services -->
+				<div class="col-lg-3">
+				     <div class="our-services">
+					     <h4> Our Services </h4>
+						 <div class="line"></div>
+						 <ul class="our-services-list">
+						     <li><i class="icofont-curved-right"></i><a href="#">Web Design</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Web Development</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Product Management</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Marketing</li></a>
+							 <li><i class="icofont-curved-right"></i><a href="#">Graphic Design</li></a>
+						 </ul>
+					 </div>
+				</div>
+				
+				  <!--- subscribe -->
 				  
-	<section class="copyright">
-	   <div class="container">
-	     <div class="row">
-		     <div class="col-lg-9">
-			    <div class="box-1">
+				<div class="col-lg-4">
+				     <div class="subscribe">
+					     <h4> Join Our Newsletter </h4>
+						 <div class="line"></div>
+						 <p> Tamen quem nulla quae legam multos aute sint culpa legam noster magna </p>
+						 
+						 <label class="subscribe-btn">
+						    <input type="email" name="email" id="email" required>
+							<button>Subscribe</button>
+						 </label> 
+					 </div>
+				</div>
 				
-			    </div>
-		 </div>
-		 
-		    <div class="col-lg-3">
-			   <div class="box-2">
-			   
-			   </div>
+   				
 			</div>
-			
-	      </div>
-	   </div>
-	</section>
+		</div>
 	
-	              <!-----copyright section end --------->
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	</footer>
+			
+		
+			<!------------- footer section end ---------------->
+			
+			
+			
+			       <!-------- copyright section start ------->
+				   
+		
+	<section class="copyright">
+	    <div class="container">
+		   <div class="row">
+		      <div class="col-lg-9"> 
+			      <div class="rights-details">
+				      © Copyright <span>Presento.</span> All Rights Reserved
+				  </div>
+				  <div class="rights-link">
+				       Designed by <a href="#">BootstrapMade</a>
+				  </div>
+			  </div>
+			  
+			  <div class="col-lg-3">
+			      <div class="end-link">
+				     <a href="#"><i class="icofont-twitter"></i></a>
+					 <a href="#"><i class="icofont-facebook"></i></a>
+					 <a href="#"><i class="icofont-instagram"></i></a>
+					 <a href="#"><i class="icofont-skype"></i></a>
+					 <a href="#"><i class="icofont-linkedin"></i></a>
+				  </div>
+			  </div>
+			      <!---- arrow ---->
+			  <div class="arrow">
+			     <a href="#"><i class="icofont-arrow-up"></i></a>
+			  </div>
+			  
+			  
+		  </div>
+		</div>
+	</section>
+				   
+				     
+				   <!-------- copyright section end --------->
+		
+			 
 </body>
 </html>
