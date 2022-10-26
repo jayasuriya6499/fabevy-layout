@@ -3,7 +3,7 @@
 	padding:0;
 	box-sizing:border-box;
 }
-.body{
+body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
@@ -391,7 +391,7 @@
 	text-align:center;
 	padding:44px 54px;
 	position:relative;
-	box-shadow: 0 4px 30px  rgb(0 0 0 /8%)
+	box-shadow: 0 4px 30px  rgb(0 0 0 /8%);
 	 	
 }
 .events i{
@@ -405,7 +405,7 @@
 	border-radius:50%;
 	color:#e03a3c;
 	padding:14px;
-	box-shadow: 0 4px 30px  rgb(0 0 0 /8%)
+	box-shadow: 0 4px 30px  rgb(0 0 0 /8%);
 }
 .events h1{
 	font-size:34px;
@@ -652,10 +652,12 @@
 	color:#fff;
 }
 /*--portfolio-image ---*/
+
 .first-img{
 	position:relative;
 	margin-top:14px;
 	margin-bottom:14px;
+	overflow:hidden;
 }
 .first-img img{
 	display:block;
@@ -705,7 +707,7 @@
 .img-inline-content a:hover{
 	color:#fff;
 }
-.first-img:hover{
+.first-img:hover img{
 	transform:scale(1.1);
 }
 .first-img:hover .img-inline{
@@ -1441,20 +1443,21 @@
 	  
 .subscribe-btn{
 	position:relative;
+	padding-right:110px;
 }
 .subscribe-btn #email{
 	border:1px solid;
 	padding:15px;
-	width:370px;
+	width:100%;
 	border-radius:5px;
 }
 .subscribe-btn button{
 	position:absolute;
-	top:-12px;
+	top:0;
 	right:0;
-	bottom:-14px;
+	height:100%;
 	border:none;
-	padding:15px 17px;
+	padding:10px 17px;
 	color:#fff;
 	font-size:18px;
 	font-weight:400;
@@ -1464,7 +1467,7 @@
 	transition:all 0.3s ease;
 }
 .subscribe-btn button:hover{
-	background-color:#e03a3c9e;
+	opacity:0.9;
 }
 
 		
