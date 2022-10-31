@@ -9,15 +9,21 @@ body{
 }
        /*-------- main container style start --------*/
 .container{
-	width:1170px;
+	width:100%;
 	margin:0 auto;
 	padding:0 15px;
+	
 }
       /*-------- main container style end --------*/
 
 .row{
 	display:flex;
 	flex-wrap:wrap;
+}
+
+
+.d-none{
+	display:none !important;
 }
 
              /*-------- col style  start --------*/
@@ -237,6 +243,7 @@ body{
 	background-image:linear-gradient(rgba(0, 0 , 0, .7), rgba(0, 0, 0, 0.5)),url("../images/ban.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
+	background-position:center;
 	height:700px;
 	
 	
@@ -397,9 +404,9 @@ body{
 }
 .events i{
 	position:absolute;
-	left:96px;
-	top:0;
-	transform:translateY(-50%);
+	left:50%;
+	top:-30px;
+	transform:translateX(-50%);
 	font-size:30px;
 	border:2px solid #fff;
 	background-color:#fff;
@@ -568,8 +575,8 @@ body{
 .services-list-box i{
 	position:absolute;
 	top:20%;
-	left:50px;
-	transform:translateX(-60%);
+	left:5%;
+	
 	color:#e03a3c;
 	font-size:40px;
 	
@@ -1281,6 +1288,7 @@ body{
 	border-radius:4px;
 	padding:15px 12px;
 	margin-bottom:26px;
+	width:100%;
 }
 .send-message-box .send-btn{
 	text-align:center;
