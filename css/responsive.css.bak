@@ -169,17 +169,8 @@
 		text-align:center;
 	}
 	
-	
-	
-	
-	 
-	
+		
 }
-
-
-
-
-
 
 
 
@@ -250,18 +241,17 @@
 			}
 			
 	 
-}
+}---*/
+
+
 
 
            /*---- medium device -----*/
 
-/*		   
+		   
 @media (min-width:768px){
-	.container{
-			width:767px;
-			
-			}
-
+	
+   
 	  
 			.col-md-1{
 			width:8.33%;
@@ -311,27 +301,192 @@
 			width:100%;
 			padding:0 15px;
 			}
+			
+			
+	/*----- banner -----*/
+	 
+	 .banner-content{
+		 text-align:center;
+	 }
+	 .banner-content h1{
+		 font-size:24px;
+		 padding-top:80px;
+	 }
+	 .banner-content h3{
+		 font-size:16px;
+	 }
+	 .banner-content a.btn2{
+		 font-size:12px;
+		 padding:5px 15px;
+	 }
+	 
+	 
+	/*--- about ---*/
+	  
+	  .about-content{
+		  text-align:center;
+		  margin-bottom:60px;
+	  }
+	  
+	  .about-list-box{
+		  text-align:center;
+	  }
+	  .about-list-box p{
+		  line-height:1.5;
+	  }
+	  
+	  
+	  /*---- achievements ----*/
+	  
+	  .events{
+		  margin-bottom:60px;
+	  }
+	  
+	  
+	  /*---- content-section ----*/
+	  
+	  .content-box-1{
+		  margin-bottom:30px;
+	  }
+	  .content-box-1 h4{
+		  padding-top:12px;
+	  }
+	  
+	  
+	  /*--- team ----*/
+	  
+	  .team-box{
+		  margin-bottom:30px;
+	  }
+	  
+	  
+	  /*---- contact ---*/
+	  
+	  .call-box{
+		  margin-bottom:30px;
+	  }
+	 
+	 
+	 /*---- footer ---*/
+	 
+	 .main-details{
+		 margin-bottom:80px;
+	 }
              
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
        
 	    
 		    /*---- desktop device ----*/
-/*	   
-@media (max-width:992px){
+			
+			
+	   
+@media (min-width:992px){
 	
-			.container{
-			width:990px;
-			margin:0 auto;
-			padding:0 15px;
-			}
-
+			
 
 			
 				 
 				 
-			.col-lg-1{
+			.col-ds-1{
+			width:8.33%;
+			padding:0 15px;
+			}
+			.col-ds-2{
+			width:16.33%;
+			padding:0 15px;
+			}
+			.col-ds-3{
+			width:25%;
+			padding:0 15px;
+			}
+			.col-ds-4{
+			width:33.33%;
+			padding:0 15px;
+			}
+			.col-ds-5{
+			width:41.66%;
+			padding:0 15px;
+			}
+			.col-ds-6{
+			width:50%;
+			padding:0 15px;
+			}
+			.col-ds-7{
+			width:58.33%;
+			padding:0 15px;
+			}
+			.col-ds-8{
+			width:66.66%;
+			padding:0 15px;
+			}
+			.col-ds-9{
+			width:75%;
+			padding:0 15px;
+			}
+			.col-ds-10{
+			width:83.33%;
+			padding:0 15px;
+			}
+			.col-ds-11{
+			width:91.66%;
+			padding:0 15px;
+			}
+			.col-ds-12{
+			width:100%;
+			padding:0 15px;
+			}
+			
+			
+			/*---- achievements ----*/
+			
+			.events p{
+				font-size:12px;
+			}
+			
+		   /*---- team ---*/
+		   
+		   .team-content h3{
+			   font-size:20px;
+		   }
+		   .team-link a{
+			   font-size:16px;
+			   width:33px;
+			   height:35px;
+			   line-height:35px;
+		   }
+             
+			
+}
+
+
+
+
+
+      /*---- extra large device ----*/
+	  
+
+@media  (min-width:1200px){
+	.container{
+		width:1170px;
+		margin:0 auto;  
+	}
+	
+	
+	.col-lg-1{
 			width:8.33%;
 			padding:0 15px;
 			}
@@ -379,16 +534,8 @@
 			width:100%;
 			padding:0 15px;
 			}
-             
 			
-}
-
-
-
-
-
-@media  (min-width:1200px){
-	.container{
-		width:1170px;
-	}
+			
+			
+	
 }
