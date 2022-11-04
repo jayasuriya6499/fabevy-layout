@@ -184,11 +184,9 @@
 
 
      /*---- smaller device -----*/
-/*
+
 @media (min-width: 576px){
-	.container{
-		width:575px;
-	}
+	
 	
     
 	       .col-sm-1{
@@ -241,7 +239,7 @@
 			}
 			
 	 
-}---*/
+}
 
 
 
@@ -251,7 +249,9 @@
 		   
 @media (min-width:768px){
 	
-   
+	
+	
+	
 	  
 			.col-md-1{
 			width:8.33%;
@@ -302,24 +302,20 @@
 			padding:0 15px;
 			}
 			
+			.navbar{
+				display:none;
+			}
 			
-	/*----- banner -----*/
-	 
-	 .banner-content{
-		 text-align:center;
-	 }
-	 .banner-content h1{
-		 font-size:24px;
-		 padding-top:80px;
-	 }
-	 .banner-content h3{
-		 font-size:16px;
-	 }
-	 .banner-content a.btn2{
-		 font-size:12px;
-		 padding:5px 15px;
-	 }
-	 
+			.d-md-block{
+				display:block !important;
+			}
+			
+			.nav-btn{
+				margin-left:390px;
+			}
+			
+	
+	
 	 
 	/*--- about ---*/
 	  
@@ -451,6 +447,28 @@
 			}
 			
 			
+			.d-none{
+				display:none !important;
+			}
+			
+			.dropdown a i{
+				top:12px;
+				left:74px;
+			}
+			
+			.navbar{
+				display:block;
+			}
+			.nav-btn{
+				margin:0;
+			}
+			.navbar-list li a.nav-list{
+				font-size:10px;
+				font-weight:600;
+			}
+			
+			
+			
 			/*---- achievements ----*/
 			
 			.events p{
@@ -535,7 +553,19 @@
 			padding:0 15px;
 			}
 			
+			.nav-btn{
+				margin-left:0;
+			}
 			
+			.navbar-list li a.nav-list{
+				font-size:14px;
+				font-weight:500;
+			}
+			
+			.dropdown a i{
+				top:14px;
+				left:95px;
+			}
 			
 	
 }
