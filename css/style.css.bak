@@ -230,6 +230,9 @@ body{
 	opacity:1;
 	visibility:visible;
 }
+.navbar-list li a.first-active{
+	color:red;
+}
 
         /*----- header menu style end ----------*/ 
 		
@@ -1541,7 +1544,7 @@ body{
 .arrow{
 	position:fixed;
 	bottom:20px;
-	right:10px;
+	right:20px;
 	z-index:2;
 }
 
