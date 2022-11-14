@@ -564,8 +564,14 @@
 			
 			.dropdown a i{
 				top:14px;
-				left:100px;
+				left:95px;
 			}
+			
+			
+		
+		.content-box-1 h4{
+			padding-top:none;
+		}
 			
 	
 }

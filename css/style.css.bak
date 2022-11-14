@@ -231,7 +231,7 @@ body{
 	visibility:visible;
 }
 .navbar-list li a.first-active{
-	color:red;
+	color:#e03a3c;
 }
 
         /*----- header menu style end ----------*/ 
@@ -439,7 +439,7 @@ body{
 .content-box-1{
 	background-color:#fff;
 	display:flex;
-	padding-top:30px;
+	padding-top:50px;
 	padding-bottom:30px;
 	padding-left:25px;
 	padding-right:25px;
@@ -1485,6 +1485,7 @@ body{
 		
 				
 					/*------- footer style end -------*/
+					
 					
 			/*------------- copyright style start ------------*/
 					
