@@ -21,6 +21,10 @@ body{
 	flex-wrap:wrap;
 }
 
+.justify-content-between{
+	justify-content:space-between;
+}
+
 
 .d-none{
 	display:none !important;
@@ -519,6 +523,7 @@ body{
 	width:100%;
 	height:auto;
 }
+
 					   /*------ content-section style end ---------*/
 					   
 					   
