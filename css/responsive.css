@@ -57,14 +57,36 @@
 	padding:0 15px;
 	}
 	
+	
+	
+	.btns{
+	text-decoration:none;
+	display:inline-block;
+	text-align:center;
+	padding:8px 12px;
+	background-color:#e03a3c;
+	border-radius:5px;
+	border:none;
+	color:#fff;
+	font-size:12px;
+}
 	/*--- logo ---*/
 	
-	.nav-btn{
-		font-size:10px;
-		margin-top:10px;
-		
-		
+	.logo a{
+		font-size:20px;
 	}
+	/*.get-icon{
+	    position:relative;
+	}
+	.icofont-navigation-menu{
+		position:absolute;
+		top:13%;
+		left:84%;
+		display:inline-block;
+		color:#111111;
+		font-size:25px;
+				
+	}*/
 	
 	/*--- banner ---*/
 	
@@ -268,9 +290,24 @@
 				display:block !important;
 			}
 			
+			/*.get-icon{
+				position:relative;
+			}
+			.icofont-navigation-menu{
+				position:absolute;
+				top:14%;
+				right:22%;
+				display:inline-block;
+				color:#111111;
+				font-size:35px;
+				
+			}*/
+			.icofont-navigation-menu{
+				display:inline-block;
+			
+			}
 		    .nav-btn{
-				display:flex;
-				justify-content:space-between;
+				margin-top:6px;
 			}
 			
 	

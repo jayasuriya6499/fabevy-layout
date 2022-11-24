@@ -21,6 +21,13 @@ body{
 	flex-wrap:wrap;
 }
 
+.justify-content-between{
+	justify-content:space-between;
+}
+.d-flex{
+	display:flex;
+}
+
 
 .d-none{
 	display:none !important;

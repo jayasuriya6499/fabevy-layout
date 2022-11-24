@@ -36,8 +36,9 @@
 				  		</div>
 				    </div>
 					
-					 <div class="col-xs-5 col-md-3 d-none  d-xs-block d-md-block">
+					 <div class="get-icon col-xs-5 col-md-4 d-none  d-xs-block d-md-block">
 					     <button class="nav-btn btns"> Get Started </button>
+						 <i class="icofont-navigation-menu"></i>
 					 </div>
 					
 				    <div class="col-lg-9 d-xs-none d-md-none d-ds-block">
@@ -1077,7 +1078,7 @@
 				      © Copyright <span>Presento.</span> All Rights Reserved
 				  </div>
 				  <div class="rights-link">
-				       Designed by <a href="#">BootstrapMade</a>
+				       Designed by <a href="#">Jayasuriya P</a>
 				  </div>
 			  </div>
 			  
