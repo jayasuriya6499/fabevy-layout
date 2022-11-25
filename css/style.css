@@ -585,10 +585,8 @@ body{
 
 .services-list-box{
 	position:relative;
-	padding-top:26px;
-	padding-bottom:26px;
-	padding-right:90px;
 	padding-left:90px;
+	min-height:150px;
 	margin-top:10px;
 	margin-bottom:10px;
 	background-color:#252525;
@@ -601,13 +599,13 @@ body{
 	position:absolute;
 	top:20%;
 	left:5%;
-	
 	color:#e03a3c;
 	font-size:40px;
 	
 }	
 .services-list-box h5{
 	font-size:18px;
+	padding-top:25px;
 }
 .services-list-box h5:hover{
 	text-decoration:underline;

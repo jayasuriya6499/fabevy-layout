@@ -67,7 +67,6 @@
 	background-color:#e03a3c;
 	border-radius:5px;
 	border:none;
-	margin-top:4px;
 	color:#fff;
 	font-size:12px;
 }
@@ -135,7 +134,8 @@
 	}
 	.content-box-1 {
         min-height: 50px;
-		padding: 0 19px;
+		display:flex;
+		justify-content:center;
     }
 	.text-align-center {
 	text-align: center !important;
@@ -152,11 +152,8 @@
 
     /*---- services ----*/
 	
-	.services-list-box{
-		padding-top:22px;
-		padding-bottom:22px;
-		padding-left:90px;
-		padding-right:10px;
+	.services-list-box p{
+		padding-bottom:30px;
 	}
 	
 	
@@ -275,6 +272,12 @@
 			}
 			
 			
+	/*---- services  ----*/
+
+        .services-list-box{
+			min-height:215px;
+		}	
+			
 	  /*---- navbar ----*/
 	  
 	  
@@ -291,18 +294,7 @@
 				display:block !important;
 			}
 			
-			/*.get-icon{
-				position:relative;
-			}
-			.icofont-navigation-menu{
-				position:absolute;
-				top:14%;
-				right:22%;
-				display:inline-block;
-				color:#111111;
-				font-size:35px;
-				
-			}*/
+			
 			.icofont-navigation-menu{
 				display:inline-block;
 			
@@ -347,6 +339,8 @@
 	 .content-box-1 {
 		min-height:100px;
 		padding: 0 57px;
+		display:flex;
+		justify-content:center;
      }
 	  
 	  .content-box-1 i{
@@ -362,6 +356,10 @@
 	  
 	  .team-box{
 		  margin-bottom:30px;
+	  }
+	  
+	  .team-link a{
+		  width:37px;
 	  }
 	  
 	  
